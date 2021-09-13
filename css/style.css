@@ -1,0 +1,184 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* top section */
+
+#top_part{
+    background-color: #ff4b78;
+    padding: 3% 14%;
+    line-height: 80px;
+}
+
+/* navigation bar */
+
+.navbar{
+    padding: 0 0 5rem 0!important;
+}
+
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem!important;
+    font-weight: bolder;
+}
+
+.nav-item{
+    font-size: 1.3rem;
+    padding: 0 15px;
+    line-height: 40px;
+}
+
+.nav-item:hover{
+    color: #ffffff!important;
+}
+
+/* download and description part */
+
+.top_desc{
+    color: #ffffff;
+    font-weight: 900!important;
+    font-size: 3.5rem;
+    line-height: 80px;
+    padding-bottom: 40px;
+}
+
+.top_img{
+    transform: rotate(20deg);
+    width: 60%;
+    padding: 20px 0;
+}
+
+/* feature card section */
+
+#feature_part{
+    padding: 8% 0;
+}
+
+.feature_imgs{
+    color: #fa7760;
+    padding-top: 3rem;
+    padding-bottom: 1.2rem;
+}
+
+.feature1_img:hover{
+    color: #229936;
+}
+
+.feature2_img:hover{
+    color: #c40505;
+}
+
+.feature3_img:hover{
+    color: #e43a1c;
+}
+
+.feature_imgs:hover{
+    position: relative;
+    bottom: 1px;
+}
+
+.feature_heading{
+    font-weight: 700;
+    padding: 0 3rem;
+}
+
+.feature_desc{
+    font-family: 'Merriweather', serif;
+    color: #969595;
+    padding: 10px 3.2rem;
+}
+
+/* review slides */
+
+#review_slides{
+    background-color: #fa7760;
+    color: #ffffff;
+    padding: 7% 0;
+}
+
+.review_text{
+    padding: 0 15% 30px 15%;
+    font-weight: 700;
+    line-height: 50px;
+}
+
+.reviewer_pic{
+    border-radius: 100%;
+    width: 11%;
+}
+
+.reviewer_name{
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+.reviewed_part{
+    padding: 10% 0 0;
+}
+
+.reviewed_img{
+    width: 85%;
+}
+
+/* pricing part */
+
+#pricing_part{
+    padding: 100px 60px;
+}
+
+.pricing_heading{
+    font-weight: 700;
+}
+
+.pricing_desc{
+    font-family: 'Merriweather', serif;
+    color: #969595;
+    padding-top: 5px;
+    padding-bottom: 3%;
+}
+
+.pricing_name{
+    font-weight: 700;
+    padding-bottom: 20px!important;
+}
+
+.tier1_header{
+    background-color: #CD7F32!important;
+}
+
+.tier2_header{
+    background-color: #C0C0C0!important;
+}
+
+.tier3_header{
+    background-color: #FFD700!important;
+}
+
+.pricing_price{
+    font-weight: 700;
+}
+
+.pricing_features{
+    font-family: 'Merriweather', serif;
+    color: #969595;
+}
+
+.signup_button{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+/* footer part */
+
+#bottom_part{
+    background-color: #ff4b78;
+    padding: 3% 0 3%;
+    color: #ffffff; 
+}
+
+.bottom_download{
+    padding-bottom: 3%;
+}
+
+.copyright{
+    padding-top: 2%;
+}
